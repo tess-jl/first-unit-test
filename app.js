@@ -1,0 +1,1 @@
+// want to have a number input and give an output that tells whether the number is even or odd
